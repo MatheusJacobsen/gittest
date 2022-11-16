@@ -1,2 +1,2 @@
 # gittest
-Programa em Python para calcular o número de Fibonacci e o fatorial de um número
+Programa em Python para calcular o número de Fibonacci, fatorial de um número e posterior verificação com arquivo teste.
